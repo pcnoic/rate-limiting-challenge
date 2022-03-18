@@ -1,0 +1,9 @@
+services: 
+  api:
+    image: api
+  proxy:
+    ports:
+      - 8000:8000
+    image: haproxy
+    volumes:
+      - ./proxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
