@@ -1,6 +1,6 @@
 API_IMAGE=api
 
-build-api-image:
+build:
 	docker build -t ${API_IMAGE} .
 dependencies:
 	cd api/ && pip3 install -r requirements.txt
