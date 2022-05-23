@@ -1,5 +1,5 @@
 """
-Blabla Dummy API
+Dummy API
 Developed for the DevOps Challenge
 """
 
