@@ -1,4 +1,4 @@
-# Blabla DevOps Challenge Solution
+# DevOps Challenge Solution
 
 ## Overview
 
