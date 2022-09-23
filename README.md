@@ -43,7 +43,6 @@ You need to have the following in your system to run (and evaluate) the solution
 - `make`
 - `curl`
 
-If you want to develop on `blabla-challenge` you should have `Python3` and `pip3` installed in your system.
 
 ### Usage
 
